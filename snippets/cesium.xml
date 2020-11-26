@@ -57,6 +57,11 @@
     <linkfile src="os_pickup.mk" dest="vendor/nxp/opensource/sn100x/Android.mk" />
   </project>
 
+  <!-- SM8150 -->
+  <project path="hardware/qcom-caf/sm8150/audio" name="hardware_qcom-caf_sm8150_audio" remote="beta" />
+  <project path="hardware/qcom-caf/sm8150/display" name="hardware_qcom-caf_sm8150_display" remote="beta" />
+  <project path="hardware/qcom-caf/sm8150/media" name="hardware_qcom-caf_sm8150_media" remote="beta" />
+  
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="cesium" />
   <project path="frameworks/base" name="frameworks_base" remote="beta" />
