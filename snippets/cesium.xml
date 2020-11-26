@@ -15,7 +15,7 @@
 
   <remote name="beta"
           fetch="https://github.com/CesiumOS-BetaLabs"
-          revision="eleven" />
+          revision="r" />
 
   <remote name="gitlab"
           fetch="https://gitlab.com" />

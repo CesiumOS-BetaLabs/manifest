@@ -82,7 +82,7 @@ How to build CesiumOS ROM for your device - Tutorial
 ##### Initializing the cos repo and downloading the manifest
 
 ```bash
-      $  repo init --depth=1 -u https://github.com/CesiumOS-org/manifest.git -b eleven
+      $  repo init --depth=1 -u https://github.com/CesiumOS-BetaLabs/manifest.git -b r
 ```
 
 ##### Syncing the source
